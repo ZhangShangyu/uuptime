@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 94,
-    "timeDay": 371,
-    "timeWeek": 130,
-    "timeMonth": 91,
+    "timeDay": 70,
+    "timeWeek": 129,
+    "timeMonth": 92,
     "timeYear": 100,
     "dailyMinutesDown": {
       "2022-04-13": 23,
@@ -32,10 +32,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 197,
-    "timeDay": 137,
-    "timeWeek": 320,
-    "timeMonth": 219,
+    "time": 198,
+    "timeDay": 340,
+    "timeWeek": 330,
+    "timeMonth": 225,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2022-03-05": 17,
@@ -50,14 +50,14 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "65.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.13%",
     "uptimeMonth": "98.88%",
     "uptimeYear": "99.89%",
     "time": 294,
-    "timeDay": 228,
-    "timeWeek": 301,
-    "timeMonth": 277,
+    "timeDay": 463,
+    "timeWeek": 313,
+    "timeMonth": 279,
     "timeYear": 276,
     "dailyMinutesDown": {
       "2022-07-08": 491,
@@ -95,8 +95,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 26,
-    "timeDay": 72,
-    "timeWeek": 30,
+    "timeDay": 17,
+    "timeWeek": 31,
     "timeMonth": 21,
     "timeYear": 29,
     "dailyMinutesDown": {
@@ -109,7 +109,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "21.04%",
+    "uptime": "21.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -120,7 +120,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-09": 117,
+      "2022-07-10": 138,
+      "2022-07-09": 1440,
       "2022-07-08": 1440,
       "2022-07-07": 1440,
       "2022-07-06": 1440,
@@ -483,8 +484,7 @@
       "2021-07-14": 1440,
       "2021-07-13": 1440,
       "2021-07-12": 1440,
-      "2021-07-11": 1440,
-      "2021-07-10": 1440
+      "2021-07-11": 1440
     }
   }
 ]
