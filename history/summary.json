@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 96,
-    "timeDay": 113,
-    "timeWeek": 145,
-    "timeMonth": 115,
+    "time": 97,
+    "timeDay": 358,
+    "timeWeek": 186,
+    "timeMonth": 123,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2022-04-13": 23,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 203,
-    "timeDay": 73,
-    "timeWeek": 242,
-    "timeMonth": 241,
+    "timeDay": 225,
+    "timeWeek": 237,
+    "timeMonth": 240,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2022-03-05": 17,
@@ -55,9 +55,9 @@
     "uptimeMonth": "98.88%",
     "uptimeYear": "99.89%",
     "time": 293,
-    "timeDay": 318,
-    "timeWeek": 419,
-    "timeMonth": 327,
+    "timeDay": 346,
+    "timeWeek": 400,
+    "timeMonth": 328,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2022-07-08": 491,
@@ -94,10 +94,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 26,
-    "timeDay": 43,
-    "timeWeek": 43,
-    "timeMonth": 30,
+    "time": 27,
+    "timeDay": 68,
+    "timeWeek": 50,
+    "timeMonth": 31,
     "timeYear": 30,
     "dailyMinutesDown": {
       "2022-04-13": 23
@@ -109,10 +109,10 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "20.42%",
+    "uptime": "20.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -120,7 +120,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-30": 126,
+      "2022-07-31": 143,
+      "2022-07-30": 1440,
       "2022-07-29": 1440,
       "2022-07-28": 1440,
       "2022-07-27": 1440,
@@ -483,8 +484,7 @@
       "2021-08-04": 1440,
       "2021-08-03": 1440,
       "2021-08-02": 1440,
-      "2021-08-01": 1440,
-      "2021-07-31": 1440
+      "2021-08-01": 1440
     }
   }
 ]
