@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 103,
-    "timeDay": 63,
-    "timeWeek": 70,
-    "timeMonth": 106,
+    "timeDay": 82,
+    "timeWeek": 71,
+    "timeMonth": 107,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2022-04-13": 23,
@@ -28,14 +28,14 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.61%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 239,
-    "timeDay": 175,
-    "timeWeek": 225,
-    "timeMonth": 212,
-    "timeYear": 242,
+    "timeDay": 213,
+    "timeWeek": 237,
+    "timeMonth": 214,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2023-02-11": 40,
       "2022-10-27": 19,
@@ -54,10 +54,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 283,
-    "timeDay": 425,
-    "timeWeek": 381,
-    "timeMonth": 286,
+    "time": 282,
+    "timeDay": 171,
+    "timeWeek": 331,
+    "timeMonth": 278,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2022-12-08": 18,
@@ -95,9 +95,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 27,
-    "timeDay": 12,
-    "timeWeek": 14,
-    "timeMonth": 29,
+    "timeDay": 19,
+    "timeWeek": 15,
+    "timeMonth": 30,
     "timeYear": 26,
     "dailyMinutesDown": {
       "2022-04-13": 23
@@ -109,7 +109,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "15.92%",
+    "uptime": "15.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -120,7 +120,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-18": 97,
+      "2023-02-19": 101,
+      "2023-02-18": 1440,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
@@ -483,8 +484,7 @@
       "2022-02-23": 1440,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
-      "2022-02-20": 1440,
-      "2022-02-19": 1440
+      "2022-02-20": 1440
     }
   }
 ]
