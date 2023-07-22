@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 99,
-    "timeDay": 161,
-    "timeWeek": 110,
-    "timeMonth": 96,
+    "time": 100,
+    "timeDay": 102,
+    "timeWeek": 114,
+    "timeMonth": 97,
     "timeYear": 104,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 231,
-    "timeDay": 207,
-    "timeWeek": 243,
-    "timeMonth": 229,
+    "timeDay": 104,
+    "timeWeek": 229,
+    "timeMonth": 224,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2023-02-11": 40,
@@ -47,13 +47,13 @@
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 296,
-    "timeDay": 456,
-    "timeWeek": 414,
-    "timeMonth": 325,
-    "timeYear": 310,
+    "timeDay": 107,
+    "timeWeek": 373,
+    "timeMonth": 310,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2023-06-21": 25,
       "2023-03-28": 86,
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 25,
-    "timeDay": 16,
-    "timeWeek": 21,
-    "timeMonth": 22,
+    "timeDay": 23,
+    "timeWeek": 22,
+    "timeMonth": 23,
     "timeYear": 26,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "13.66%",
+    "uptime": "13.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -114,7 +114,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 87,
+      "2023-07-22": 86,
+      "2023-07-21": 1440,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
@@ -477,8 +478,7 @@
       "2022-07-26": 1440,
       "2022-07-25": 1440,
       "2022-07-24": 1440,
-      "2022-07-23": 1440,
-      "2022-07-22": 1440
+      "2022-07-23": 1440
     }
   }
 ]
