@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 103,
-    "timeDay": 54,
-    "timeWeek": 79,
+    "time": 102,
+    "timeDay": 86,
+    "timeWeek": 83,
     "timeMonth": 80,
     "timeYear": 99,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 234,
-    "timeDay": 155,
-    "timeWeek": 156,
-    "timeMonth": 273,
+    "timeDay": 119,
+    "timeWeek": 147,
+    "timeMonth": 272,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2023-02-11": 40
@@ -51,18 +51,17 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 302,
-    "timeDay": 396,
-    "timeWeek": 255,
-    "timeMonth": 314,
-    "timeYear": 301,
+    "timeDay": 126,
+    "timeWeek": 222,
+    "timeMonth": 308,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2023-11-21": 17,
       "2023-09-13": 22,
       "2023-07-24": 25,
       "2023-06-21": 25,
       "2023-03-28": 86,
-      "2023-03-27": 43,
-      "2022-12-08": 18
+      "2023-03-27": 43
     }
   },
   {
@@ -95,8 +94,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 26,
-    "timeDay": 9,
-    "timeWeek": 17,
+    "timeDay": 22,
+    "timeWeek": 18,
     "timeMonth": 18,
     "timeYear": 25,
     "dailyMinutesDown": {}
@@ -107,7 +106,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "12.09%",
+    "uptime": "12.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -118,7 +117,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-07": 75,
+      "2023-12-08": 75,
+      "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
@@ -481,8 +481,7 @@
       "2022-12-12": 1440,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
-      "2022-12-09": 1440,
-      "2022-12-08": 1440
+      "2022-12-09": 1440
     }
   }
 ]
