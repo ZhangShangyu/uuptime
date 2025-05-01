@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 97,
-    "timeWeek": 133,
+    "timeDay": 86,
+    "timeWeek": 132,
     "timeMonth": 107,
     "timeYear": 111,
-    "dailyMinutesDown": {
-      "2024-05-01": 45
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 61,
-    "timeWeek": 210,
-    "timeMonth": 195,
+    "timeDay": 118,
+    "timeWeek": 217,
+    "timeMonth": 202,
     "timeYear": 221,
     "dailyMinutesDown": {}
   },
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 351,
-    "timeDay": 404,
-    "timeWeek": 339,
-    "timeMonth": 316,
-    "timeYear": 326,
+    "time": 350,
+    "timeDay": 147,
+    "timeWeek": 306,
+    "timeMonth": 313,
+    "timeYear": 325,
     "dailyMinutesDown": {}
   },
   {
@@ -85,13 +83,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 31,
-    "timeDay": 25,
-    "timeWeek": 21,
+    "timeDay": 21,
+    "timeWeek": 23,
     "timeMonth": 19,
     "timeYear": 31,
-    "dailyMinutesDown": {
-      "2024-05-01": 34
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Secret Site",
@@ -102,7 +98,7 @@
     "uptime": "8.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -110,7 +106,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-30": 112,
+      "2025-05-01": 121,
+      "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -473,8 +470,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   }
 ]
